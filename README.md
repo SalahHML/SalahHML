@@ -7,7 +7,7 @@ Bienvenue sur mon profil GitHub ! Je suis Salah Hamla, un ingénieur IT Data Ana
 📊 Ingénieur Data Analyst
 🌍 Basé à Paris, France
 📈 Expertise dans l'analyse de données, la modélisation statistique et la visualisation
-🎓 Diplômé en Business Intelligence / Data analysis de l'EISTI (CYTECH).
+🎓 Diplômé en Business Intelligence / Data Analytics de l'EISTI (CYTECH).
 
 ## Compétences
 
